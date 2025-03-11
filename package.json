@@ -1,0 +1,18 @@
+{
+    "name": "tasknest-backend",
+    "version": "1.0.0",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.10.9",
+        "dotenv": "^8.2.0",
+        "cors": "^2.8.5",
+        "jsonwebtoken": "^8.5.1",
+        "bcryptjs": "^2.4.3"
+    }
+}
+
